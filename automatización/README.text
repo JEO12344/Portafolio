@@ -1,0 +1,14 @@
+Nombre del proyecto: automatización de comunicación con python
+Objetivo:
+Automatizar el envío de mensajes personalizados de WhatsApp a una lista de contactos cargada desde un archivo de Excel, 
+incluyendo información específica como claves o notificaciones.
+Sack Tecnológico
+Lenguaje: Python 3.x
+
+Librerías Clave:
+pandas: Lectura y procesamiento de datos desde archivos Excel (.xlsx).
+pywhatkit: Automatización de envío de mensajes de WhatsApp.
+smtplib, email.mime: Envío de correos electrónicos a través de un servidor SMTP (Gmail).
+dotenv: Gestión segura de variables de entorno (credenciales).
+time, random: Control de flujo y pausas aleatorias para simular comportamiento humano y evitar bloqueos.
+
