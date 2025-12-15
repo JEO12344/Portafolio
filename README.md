@@ -1,7 +1,3 @@
-¡Claro que sí! Aquí tienes el contenido completo.
-
-Como me pediste, te lo dejo aquí abajo como texto plano para que puedas seleccionarlo todo, copiarlo y pegarlo directamente en tu archivo en GitHub. No te preocupes por los símbolos como # o *, son necesarios para que en GitHub se vea con títulos grandes y negritas.
-
 🚀 Portafolio de Ciencia de Datos - Juan Emilio Ortega Risso
 ¡Hola! 👋 Soy Técnico Superior en Ciencia de Datos (Graduado en Dic. 2025). En este repositorio he organizado mis proyectos más destacados, donde aplico técnicas de Machine Learning, Análisis de Datos, Business Intelligence y Automatización para resolver problemas de negocio reales.
 
